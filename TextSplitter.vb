@@ -3,8 +3,6 @@ Imports System.Collections.Generic
 Imports System.Text.RegularExpressions
 Imports System.Windows.Forms
 Imports System.Drawing
-Imports System.ComponentModel
-Imports System.Reflection.Emit
 
 ' TextSplitter: A form-based application for splitting text into segments
 

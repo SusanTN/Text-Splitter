@@ -1,0 +1,51 @@
+# Ignore Visual Studio temporary files and build results
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+Obj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# NuGet Packages (Uncomment if you do not wish to track them)
+#packages/
+
+# Exclude bin directory contents except for desired binaries (e.g., .dll or .exe)
+bin/
+!bin/**/*.dll
+!bin/**/*.exe
+
+# Other files and folders to ignore
+*.nupkg
+*.[Cc]ache
+*.bak
+*.swp
+*~.nib
+local.properties
+*.xcuserstate
+project.lock.json
+*.csproj
+*.vbproj
+*.vspscc
+*._*
+*.dbmdl
+*.dbproj.schemaview
+Directory.Build.props
+Directory.Build.targets
+
+# Exclude obj directory contents
+obj/
+*.log
+*.vspscc
+*.vssscc

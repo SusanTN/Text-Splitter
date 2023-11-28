@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\susan\\Source\\Repos\\TextSplitter\\Text Splitter.vbproj": {}
+    "C:\\Users\\susan\\source\\repos\\Text-Splitter\\Text Splitter.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\susan\\Source\\Repos\\TextSplitter\\Text Splitter.vbproj": {
+    "C:\\Users\\susan\\source\\repos\\Text-Splitter\\Text Splitter.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\susan\\Source\\Repos\\TextSplitter\\Text Splitter.vbproj",
+        "projectUniqueName": "C:\\Users\\susan\\source\\repos\\Text-Splitter\\Text Splitter.vbproj",
         "projectName": "Text Splitter",
-        "projectPath": "C:\\Users\\susan\\Source\\Repos\\TextSplitter\\Text Splitter.vbproj",
+        "projectPath": "C:\\Users\\susan\\source\\repos\\Text-Splitter\\Text Splitter.vbproj",
         "packagesPath": "C:\\Users\\susan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\susan\\Source\\Repos\\TextSplitter\\obj\\",
+        "outputPath": "C:\\Users\\susan\\Source\\Repos\\Text-Splitter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
