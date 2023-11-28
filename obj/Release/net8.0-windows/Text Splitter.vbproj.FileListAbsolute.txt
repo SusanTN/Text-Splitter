@@ -1,0 +1,16 @@
+C:\Users\susan\source\repos\Text Splitter\bin\Release\net8.0-windows\Text Splitter.exe
+C:\Users\susan\source\repos\Text Splitter\bin\Release\net8.0-windows\Text Splitter.deps.json
+C:\Users\susan\source\repos\Text Splitter\bin\Release\net8.0-windows\Text Splitter.runtimeconfig.json
+C:\Users\susan\source\repos\Text Splitter\bin\Release\net8.0-windows\Text Splitter.dll
+C:\Users\susan\source\repos\Text Splitter\bin\Release\net8.0-windows\Text Splitter.pdb
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text_Splitter.TextSplitter.resources
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.vbproj.GenerateResource.cache
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.AssemblyInfoInputs.cache
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.AssemblyInfo.vb
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.vbproj.CoreCompileInputs.cache
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.dll
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\refint\Text Splitter.dll
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.pdb
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\Text Splitter.genruntimeconfig.cache
+C:\Users\susan\source\repos\Text Splitter\obj\Release\net8.0-windows\ref\Text Splitter.dll
