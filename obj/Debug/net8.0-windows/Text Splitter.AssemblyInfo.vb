@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Text Splitter"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ecd5ded85decc01a37b9ec5493f7562d7eb96c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8bf15aa7c27f23577b25faaabf13577d79018ca"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Text Splitter"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Text Splitter"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
